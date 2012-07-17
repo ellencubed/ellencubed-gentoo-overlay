@@ -1,0 +1,3 @@
+This is my personal gentoo overlay containing ebuilds I've created for myself. 
+
+dev-embedded/xburst-tools - tools for flashing the nand on the ben nanonote
